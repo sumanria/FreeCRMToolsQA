@@ -2,44 +2,44 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="FREE CRM Application Test Automation Test Suite" duration-ms="64835" started-at="2018-05-23T23:55:32Z" finished-at="2018-05-23T23:56:37Z">
+  <suite name="FREE CRM Application Test Automation Test Suite" duration-ms="47435" started-at="2018-05-24T00:14:19Z" finished-at="2018-05-24T00:15:06Z">
     <groups>
     </groups>
-    <test name="Free CRM App Test Cases" duration-ms="64835" started-at="2018-05-23T23:55:32Z" finished-at="2018-05-23T23:56:37Z">
+    <test name="Free CRM App Test Cases" duration-ms="47435" started-at="2018-05-24T00:14:19Z" finished-at="2018-05-24T00:15:06Z">
       <class name="com.toolsqa.qa.testcases.ToolsQAHomePageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.toolsqa.qa.testcases.ToolsQAHomePageTest@77caeb3e]" name="setUp" is-config="true" duration-ms="30668" started-at="2018-05-24T05:25:32Z" finished-at="2018-05-24T05:26:03Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.toolsqa.qa.testcases.ToolsQAHomePageTest@77caeb3e]" name="setUp" is-config="true" duration-ms="16533" started-at="2018-05-24T05:44:19Z" finished-at="2018-05-24T05:44:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:1, instance:com.toolsqa.qa.testcases.ToolsQAHomePageTest@77caeb3e]" name="verifyHomePageTitleTest" duration-ms="42" started-at="2018-05-24T05:26:03Z" finished-at="2018-05-24T05:26:03Z">
+        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:1, instance:com.toolsqa.qa.testcases.ToolsQAHomePageTest@77caeb3e]" name="verifyHomePageTitleTest" duration-ms="53" started-at="2018-05-24T05:44:35Z" finished-at="2018-05-24T05:44:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyHomePageTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.toolsqa.qa.testcases.ToolsQAHomePageTest@77caeb3e]" name="tearDown" is-config="true" duration-ms="1111" started-at="2018-05-24T05:26:03Z" finished-at="2018-05-24T05:26:04Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.toolsqa.qa.testcases.ToolsQAHomePageTest@77caeb3e]" name="tearDown" is-config="true" duration-ms="1732" started-at="2018-05-24T05:44:35Z" finished-at="2018-05-24T05:44:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.toolsqa.qa.testcases.ToolsQAHomePageTest@77caeb3e]" name="setUp" is-config="true" duration-ms="13061" started-at="2018-05-24T05:26:04Z" finished-at="2018-05-24T05:26:17Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.toolsqa.qa.testcases.ToolsQAHomePageTest@77caeb3e]" name="setUp" is-config="true" duration-ms="10841" started-at="2018-05-24T05:44:37Z" finished-at="2018-05-24T05:44:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="verifyToolsQALogoTest()[pri:2, instance:com.toolsqa.qa.testcases.ToolsQAHomePageTest@77caeb3e]" name="verifyToolsQALogoTest" duration-ms="259" started-at="2018-05-24T05:26:17Z" finished-at="2018-05-24T05:26:17Z">
+        <test-method status="PASS" signature="verifyToolsQALogoTest()[pri:2, instance:com.toolsqa.qa.testcases.ToolsQAHomePageTest@77caeb3e]" name="verifyToolsQALogoTest" duration-ms="310" started-at="2018-05-24T05:44:48Z" finished-at="2018-05-24T05:44:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyToolsQALogoTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.toolsqa.qa.testcases.ToolsQAHomePageTest@77caeb3e]" name="tearDown" is-config="true" duration-ms="1120" started-at="2018-05-24T05:26:17Z" finished-at="2018-05-24T05:26:19Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.toolsqa.qa.testcases.ToolsQAHomePageTest@77caeb3e]" name="tearDown" is-config="true" duration-ms="1617" started-at="2018-05-24T05:44:48Z" finished-at="2018-05-24T05:44:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.toolsqa.qa.testcases.ToolsQAHomePageTest@77caeb3e]" name="setUp" is-config="true" duration-ms="13155" started-at="2018-05-24T05:26:19Z" finished-at="2018-05-24T05:26:32Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.toolsqa.qa.testcases.ToolsQAHomePageTest@77caeb3e]" name="setUp" is-config="true" duration-ms="10269" started-at="2018-05-24T05:44:50Z" finished-at="2018-05-24T05:45:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="verifyContactsLinkTest()[pri:3, instance:com.toolsqa.qa.testcases.ToolsQAHomePageTest@77caeb3e]" name="verifyContactsLinkTest" duration-ms="4154" started-at="2018-05-24T05:26:32Z" finished-at="2018-05-24T05:26:36Z">
+        <test-method status="PASS" signature="clickOnProductCategory()[pri:3, instance:com.toolsqa.qa.testcases.ToolsQAHomePageTest@77caeb3e]" name="clickOnProductCategory" duration-ms="4434" started-at="2018-05-24T05:45:00Z" finished-at="2018-05-24T05:45:05Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyContactsLinkTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.toolsqa.qa.testcases.ToolsQAHomePageTest@77caeb3e]" name="tearDown" is-config="true" duration-ms="1200" started-at="2018-05-24T05:26:36Z" finished-at="2018-05-24T05:26:37Z">
+        </test-method> <!-- clickOnProductCategory -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.toolsqa.qa.testcases.ToolsQAHomePageTest@77caeb3e]" name="tearDown" is-config="true" duration-ms="1552" started-at="2018-05-24T05:45:05Z" finished-at="2018-05-24T05:45:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

@@ -44,7 +44,7 @@ public class ToolsQAHomePageTest extends TestBase{
 	}
 	
 	@Test(priority=3)
-	public void verifyContactsLinkTest(){
+	public void clickOnProductCategory(){
 		//testUtil.switchToFrame();
 		ToolsQAhomePage.clickOnProductCategory();
 	}
